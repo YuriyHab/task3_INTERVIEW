@@ -2,4 +2,4 @@
 
 It is an application with the ability to drag and drop items between two lists
 
-RUN .exe
+RUN task3.exe
